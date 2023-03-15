@@ -1,0 +1,68 @@
+body {
+  max-width: 60%;
+  margin: 60px 180px;
+  padding-left: 50px;
+  border: 1px solid#5a6275;
+}
+
+body:hover {
+  border: solid 2px #016ec5;
+}
+
+form {
+  margin-bottom: 25px;
+  font-size: 20px;
+}
+input {
+  width: 50%;
+  padding: 5px 15px;
+}
+
+input:hover {
+  border: 1px solid #016ec5;
+}
+
+button {
+  margin-left: 10px;
+  width: 100px;
+  background-color: #016ec5;
+  color: #fff;
+  border: none;
+  padding: 5px;
+}
+
+.cloudy {
+  width: 70px;
+  float: left;
+  margin-right: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  color: #5a6275;
+}
+
+li {
+  list-style: none;
+  font-size: 19px;
+  color: #5a6275;
+}
+.stovb {
+  border: 1px solid#5a6275;
+  text-align: center;
+  width: 110px;
+  margin: 3px;
+  padding: 6px 2px;
+}
+
+.stovb:hover {
+  border: 1.5px solid #016ec5;
+}
+
+.font {
+  font-size: 18px;
+}
